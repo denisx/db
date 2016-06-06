@@ -1,0 +1,16 @@
+{
+	"name": "DB",
+	"description": "DB (mysql pool) with promise",
+	"version": "1.0.1",
+	"author": "denisx <nodejs-db@denisx.ru> (http://denisx.ru)",
+	"main": "db.js",
+	"dependencies": {
+		"mysql": "^2.10.2",
+		"promise": "^7.1.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/denisx/db.git"
+	},
+	"license": "MIT"
+}
